@@ -62,6 +62,6 @@ Import the database:
 ```bash
 mysql -u root -p < ecommerce.sql
 ```
-Open the project in NetBeans.
-Add mysql-connector.jar to the project libraries.
-Build and run the project from NetBeans (or via Ant using build.xml).
+- Open the project in NetBeans.
+- Add mysql-connector.jar to the project libraries.
+- Build and run the project from NetBeans (or via Ant using build.xml).
