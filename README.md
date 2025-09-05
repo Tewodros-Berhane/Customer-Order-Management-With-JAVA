@@ -45,6 +45,7 @@ Prerequisites
 -**MySQL installed and running
 
 -**NetBeans IDE (recommended)
+---
 
 Installation
 
