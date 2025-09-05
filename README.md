@@ -38,15 +38,14 @@ A Java-based application that manages orders, customers, products, and inventory
 ```
 
 ## Getting Started
----
-## Prerequisites
 
--**Java JDK (8 or later)
+# Prerequisites
 
--**MySQL installed and running
+-**Java JDK (8 or later)**
 
--**NetBeans IDE (recommended)
----
+-**MySQL installed and running**
+
+-**NetBeans IDE (recommended)**
 
 Installation
 
