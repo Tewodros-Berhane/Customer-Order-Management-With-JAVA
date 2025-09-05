@@ -38,7 +38,8 @@ A Java-based application that manages orders, customers, products, and inventory
 ```
 
 ## Getting Started
-Prerequisites
+---
+## Prerequisites
 
 -**Java JDK (8 or later)
 
